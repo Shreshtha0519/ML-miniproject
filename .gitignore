@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+Lib/
+Scripts/
+etc/
+share/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk files
+.DS_Store
+Thumbs.db
